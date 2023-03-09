@@ -1,0 +1,7 @@
+C:\Users\leosh\OneDrive\Рабочий стол\Спецглавы\DZ-4\DZ-4\bin\Debug\DZ-4.exe.config
+C:\Users\leosh\OneDrive\Рабочий стол\Спецглавы\DZ-4\DZ-4\bin\Debug\DZ-4.exe
+C:\Users\leosh\OneDrive\Рабочий стол\Спецглавы\DZ-4\DZ-4\bin\Debug\DZ-4.pdb
+C:\Users\leosh\OneDrive\Рабочий стол\Спецглавы\DZ-4\DZ-4\obj\Debug\DZ-4.csprojAssemblyReference.cache
+C:\Users\leosh\OneDrive\Рабочий стол\Спецглавы\DZ-4\DZ-4\obj\Debug\DZ-4.csproj.CoreCompileInputs.cache
+C:\Users\leosh\OneDrive\Рабочий стол\Спецглавы\DZ-4\DZ-4\obj\Debug\DZ-4.exe
+C:\Users\leosh\OneDrive\Рабочий стол\Спецглавы\DZ-4\DZ-4\obj\Debug\DZ-4.pdb
