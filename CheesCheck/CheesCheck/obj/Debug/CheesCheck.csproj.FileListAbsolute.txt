@@ -5,3 +5,10 @@ C:\Users\leosh\source\repos\CheesCheck\CheesCheck\obj\Debug\CheesCheck.csprojAss
 C:\Users\leosh\source\repos\CheesCheck\CheesCheck\obj\Debug\CheesCheck.csproj.CoreCompileInputs.cache
 C:\Users\leosh\source\repos\CheesCheck\CheesCheck\obj\Debug\CheesCheck.exe
 C:\Users\leosh\source\repos\CheesCheck\CheesCheck\obj\Debug\CheesCheck.pdb
+C:\Users\leosh\OneDrive\Рабочий стол\Спецглавы\GitFolder\SpecGlavDZ\CheesCheck\CheesCheck\bin\Debug\CheesCheck.exe.config
+C:\Users\leosh\OneDrive\Рабочий стол\Спецглавы\GitFolder\SpecGlavDZ\CheesCheck\CheesCheck\bin\Debug\CheesCheck.exe
+C:\Users\leosh\OneDrive\Рабочий стол\Спецглавы\GitFolder\SpecGlavDZ\CheesCheck\CheesCheck\bin\Debug\CheesCheck.pdb
+C:\Users\leosh\OneDrive\Рабочий стол\Спецглавы\GitFolder\SpecGlavDZ\CheesCheck\CheesCheck\obj\Debug\CheesCheck.csprojAssemblyReference.cache
+C:\Users\leosh\OneDrive\Рабочий стол\Спецглавы\GitFolder\SpecGlavDZ\CheesCheck\CheesCheck\obj\Debug\CheesCheck.csproj.CoreCompileInputs.cache
+C:\Users\leosh\OneDrive\Рабочий стол\Спецглавы\GitFolder\SpecGlavDZ\CheesCheck\CheesCheck\obj\Debug\CheesCheck.exe
+C:\Users\leosh\OneDrive\Рабочий стол\Спецглавы\GitFolder\SpecGlavDZ\CheesCheck\CheesCheck\obj\Debug\CheesCheck.pdb

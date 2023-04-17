@@ -77,7 +77,7 @@ namespace CheesCheck
                         Console.WriteLine("Ход коня корректный");
                     else Console.WriteLine("Ход коня не корректный"); break;
                 case 6:
-                    if (chessCheck.Rook(x1, y1, x2, y2))
+                    if (chessCheck.Pawn(x1, y1, x2, y2))
                         Console.WriteLine("Ход пешки корректный");
                     else Console.WriteLine("Ход пешки не корректный");
                     break;
