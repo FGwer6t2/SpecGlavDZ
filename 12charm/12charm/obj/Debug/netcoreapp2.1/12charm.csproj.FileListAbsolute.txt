@@ -1,0 +1,11 @@
+C:\Users\leosh\OneDrive\Рабочий стол\Спецглавы\GitFolder\SpecGlavDZ\12charm\12charm\bin\Debug\netcoreapp2.1\12charm.deps.json
+C:\Users\leosh\OneDrive\Рабочий стол\Спецглавы\GitFolder\SpecGlavDZ\12charm\12charm\bin\Debug\netcoreapp2.1\12charm.runtimeconfig.json
+C:\Users\leosh\OneDrive\Рабочий стол\Спецглавы\GitFolder\SpecGlavDZ\12charm\12charm\bin\Debug\netcoreapp2.1\12charm.runtimeconfig.dev.json
+C:\Users\leosh\OneDrive\Рабочий стол\Спецглавы\GitFolder\SpecGlavDZ\12charm\12charm\bin\Debug\netcoreapp2.1\12charm.dll
+C:\Users\leosh\OneDrive\Рабочий стол\Спецглавы\GitFolder\SpecGlavDZ\12charm\12charm\bin\Debug\netcoreapp2.1\12charm.pdb
+C:\Users\leosh\OneDrive\Рабочий стол\Спецглавы\GitFolder\SpecGlavDZ\12charm\12charm\obj\Debug\netcoreapp2.1\12charm.csprojAssemblyReference.cache
+C:\Users\leosh\OneDrive\Рабочий стол\Спецглавы\GitFolder\SpecGlavDZ\12charm\12charm\obj\Debug\netcoreapp2.1\12charm.csproj.CoreCompileInputs.cache
+C:\Users\leosh\OneDrive\Рабочий стол\Спецглавы\GitFolder\SpecGlavDZ\12charm\12charm\obj\Debug\netcoreapp2.1\12charm.AssemblyInfoInputs.cache
+C:\Users\leosh\OneDrive\Рабочий стол\Спецглавы\GitFolder\SpecGlavDZ\12charm\12charm\obj\Debug\netcoreapp2.1\12charm.AssemblyInfo.cs
+C:\Users\leosh\OneDrive\Рабочий стол\Спецглавы\GitFolder\SpecGlavDZ\12charm\12charm\obj\Debug\netcoreapp2.1\12charm.dll
+C:\Users\leosh\OneDrive\Рабочий стол\Спецглавы\GitFolder\SpecGlavDZ\12charm\12charm\obj\Debug\netcoreapp2.1\12charm.pdb
